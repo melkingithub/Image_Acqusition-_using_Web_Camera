@@ -124,21 +124,22 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 </br>
-<img width="500" height="500" alt="Screenshot 2025-08-25 203909" src="https://github.com/user-attachments/assets/5614433b-b6ca-434c-8612-aced0157b8ee" />
+<img width="635" height="503" alt="image" src="https://github.com/user-attachments/assets/9f62703b-0e8a-4f9f-9962-2bb4704eca88" />
 
 </br>
 
 
 ### ii) Display the video
 </br>
-<img width="500" height="500" alt="Screenshot 2025-08-25 204048" src="https://github.com/user-attachments/assets/c8b0fdd9-1966-4ef2-b7a1-d7efc0b6eec2" />
+<img width="631" height="474" alt="image" src="https://github.com/user-attachments/assets/6750c18c-745f-4e36-8282-2085655f1e00" />
+
 
 </br>
 
 
 ### iii) Display the video by resizing the window
 </br>
-<img width="500" height="500" alt="Screenshot 2025-08-25 204235" src="https://github.com/user-attachments/assets/cbd00a2d-d285-4c5d-959a-8bd3003ace8e" />
+<img width="328" height="471" alt="image" src="https://github.com/user-attachments/assets/be78dad5-f6b0-42be-9119-b9002576e0ce" />
 
 </br>
 
@@ -146,7 +147,7 @@ cv2.destroyAllWindows()
 
 ### iv) Rotate and display the video
 </br>
-<img width="500" height="500" alt="Screenshot 2025-08-25 204334" src="https://github.com/user-attachments/assets/2d1e0b98-3788-4d5c-9ac7-98efe15ab98f" />
+<img width="364" height="463" alt="image" src="https://github.com/user-attachments/assets/f82c46ad-dbb8-40de-ae2a-fc0274ffc360" />
 
 </br>
 
